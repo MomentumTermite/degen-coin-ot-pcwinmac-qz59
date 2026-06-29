@@ -1,4 +1,4 @@
-# 
+# 专业 degen coin sniper bot 脚本 Mac OS版 | 精英 degen coin sniper bot 脚本 PC Windows版。集成 数据可视化 和 趋势检测，跨平台性能最大化。
 
 
 
